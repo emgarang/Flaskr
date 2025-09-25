@@ -13,8 +13,8 @@ TEMPLATE = """
     {content}
     <hr>
     <nav>
-      <a href="/">Home</a> |
-      <a href="/add/1/2">Add</a> |
+      <a href="/">Home</a> 
+      <a href="/add/1/2">Add</a> 
       <a href="/reverse?q=example">Reverse</a>
     </nav>
   </body>
